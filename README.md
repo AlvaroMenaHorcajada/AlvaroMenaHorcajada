@@ -1,18 +1,17 @@
-# ¡Hola, soy Álvaro! 👋
+# Hi, I'm Álvaro! 👋
 
-Bienvenido a mi perfil de GitHub. Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Welcome to my GitHub profile. I am currently studying for a Higher Degree in Multiplatform Application Development (DAM).
 
-## Sobre mí
-- 🎓 Estudiante de DAM, apasionado por el desarrollo de software.
-- 🔭 Explorando buenas prácticas en el uso de Git y GitHub.
-- 🌱 Aprendiendo sobre desarrollo de aplicaciones, además de gestión de versiones.
+## About me
+- 🎓 DAM student, passionate about software development.
+- 🔭 Exploring best practices in using Git and GitHub.
+- 🌱 Learning about application development and version management.
 
-
-## Tecnologías y herramientas
+## Technologies and tools
 - ⚙️ GitHub, Git, HTML, CSS, JavaScript, Java, SQL.
 
 ## GitHub Workflow
-💡 Sigo el GitHub Flow, donde organizo mi trabajo con ramas descriptivas, commits regulares y solicitudes de Pull Requests para garantizar un desarrollo estructurado y eficiente.
+💡 I follow the GitHub Flow, where I organize my work with descriptive branches, regular commits, and Pull Request submissions to ensure a structured and efficient development process.
 
 ---
 
