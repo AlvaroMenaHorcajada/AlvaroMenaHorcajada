@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy Álvaro! 👋
 
-<!--
-**AlvaroMenaHorcajada/AlvaroMenaHorcajada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🎓 Estudiante de DAM, apasionado por el desarrollo de software.
+- 🔭 Explorando buenas prácticas en el uso de Git y GitHub.
+- 🌱 Aprendiendo sobre desarrollo de aplicaciones, además de gestión de versiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologías y herramientas
+- ⚙️ GitHub, Git, HTML, CSS, JavaScript, Java, SQL.
+
+## GitHub Workflow
+💡 Sigo el GitHub Flow, donde organizo mi trabajo con ramas descriptivas, commits regulares y solicitudes de Pull Requests para garantizar un desarrollo estructurado y eficiente.
+
+---
+
